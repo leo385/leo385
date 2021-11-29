@@ -27,7 +27,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="CPP" width="26px" src="https://ibb.co/HPwRkv4" />
+<img align="left" alt="CPP" width="26px" src="https://user-images.githubusercontent.com/30010348/143875263-46dc29b8-92ba-424c-9b19-68f8363fea16.png" />
 <img align="left" alt="C" width="26px" src="https://user-images.githubusercontent.com/17773218/56295546-32a81200-60ea-11e9-8761-0b726b20fd51.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
