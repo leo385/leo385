@@ -11,7 +11,7 @@
 - 📖 I’m currently studying and in free time programming
 - 💎 My favourite programming languages are C/C++
 - 🎲 In Future I'm willing to collaborate with other game engines' content creators!
-- 🎯 2022 Goal: Make a clone "Minecraft", based on OpenGL libraries 
+- 🎯 2022 Goal: Make a clone "Minecraft", based on maybe OpenGL/DirectX11/Vulkan API libraries (I will choose API which show better performance on NVIDIA). 
 - ⚡  I love to playing football, and going to gym
 
 ### Connect with me:
