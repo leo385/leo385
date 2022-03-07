@@ -7,12 +7,12 @@
 
 ## I'm a Programmer, Student, and might your friend 🤠
 
-- 📌 My major goal is make game engine 
-- 📖 I’m currently studying and in free time programming
-- 💎 My favourite programming languages are C/C++
+- 📌 My major goal is make game engine.
+- 📖 I’m currently studying and in free time programming.
+- 💎 My favourite programming languages are C/C++.
 - 🎲 In Future I'm willing to collaborate with other game engines' content creators!
-- 🎯 2022 Goal: Make a clone "Minecraft", based on OpenGL/Vulkan API libraries (I will choose API which show better performance on NVIDIA). 
-- ⚡ I love to playing football, and going to gym
+- 🎯 2022 Goal: Make a clone "Minecraft", based on OpenGL/Vulkan API libraries.
+- ⚡ I love to playing football, and going to gym.
 
 ### Connect with me:
 
